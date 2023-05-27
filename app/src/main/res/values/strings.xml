@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="Months">
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>April</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>August</item>
+        <item>september</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
